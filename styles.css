@@ -3,6 +3,11 @@ body
   background-color: lightblue;
 }
 
+div
+{
+  display: block;
+}
+
 p1
 {
   font-family: "Times New Roman", Times, serif;
