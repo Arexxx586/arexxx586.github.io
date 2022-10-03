@@ -1,24 +1,23 @@
-body
-{
+body{
   background-color: lightblue;
 }
 
-div
-{
+div{
   display: block;
 }
 
-p1
-{
+.header{
+  background-color: green;
+}
+
+p1{
   font-family: "Times New Roman", Times, serif;
 }
 
-p2
-{
+p2{
   font-family: Arial, Helvetica, sans-serif;
 }
 
-p3
-{
+p3{
   font-family: "Lucida Console", "Courier New", monospace;
 }
