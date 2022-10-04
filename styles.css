@@ -15,7 +15,8 @@ div{
 }
 
 .footer{
-    background-color: "#ffcc66";
+  background-color: green;
+  opacity: 0.3;
 }
 
 p1{
