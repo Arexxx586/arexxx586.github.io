@@ -16,6 +16,8 @@ div{
 
 .section{
   background-color: #ffccff;
+  padding: 5px;
+  width: 150px;
 }
 
 img {
