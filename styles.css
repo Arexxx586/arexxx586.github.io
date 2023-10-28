@@ -16,9 +16,10 @@ div{
 
 .section{
   background-color: #ffccff;
-  img {
-  border-radius: 50%;
 }
+
+img {
+  border-radius: 50%;
 }
 
 .footer{
